@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(220, 247, 248);text-align: center;border-style:solid ;border-color: darkblue;border-width: 20px;margin: 0px;border-width: ;
+}
+h5 {
+    color: rgb(37, 70, 175);font-size: 20px;
+}
+p {
+    color:rgb(37, 37, 128);font-size: 18px;
+}
+h1 {
+    color:white;font-family: 'Times New Roman', Times, serif;font-size: 50px;
+}
+h4 {
+    color: rgb(43, 97, 97);font-family: Arial, Helvetica, sans-serif;font-size: 24px;
+}
+div {
+    background-color: darkblue;
+}
+a {
+    font-size: 20px;
+}
